@@ -24,7 +24,7 @@ This project has adopted the [Microsoft Open Source Code of Conduct](https://ope
     PS C:\Code> cd NuGetGallery
     PS C:\Code\NuGetGallery> .\build
     ```
-4. Set up the website!
+4. Set up the website (run the script as an administrator)!
 
     ```PS C:\Code\NuGetGallery> .\tools\Setup-DevEnvironment.ps1```
     
